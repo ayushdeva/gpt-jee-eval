@@ -1,0 +1,32 @@
+[project]
+name = "evals"
+version = "1.0.3.post1"
+requires-python = ">=3.9"
+dependencies = [
+    "mypy",
+    "openai >= 0.27.2",
+    "tiktoken",
+    "blobfile",
+    "backoff",
+    "numpy",
+    "snowflake-connector-python[pandas]",
+    "pandas",
+    "fire",
+    "pydantic",
+    "tqdm",
+    "nltk",
+    "filelock",
+    "mock",
+    "langdetect",
+    'termcolor',
+    "lz4",
+    "pyzstd",
+    "pyyaml",
+    "sacrebleu",
+    "matplotlib",
+    "setuptools_scm",
+]
+
+[project.scripts]
+oaieval = "evals.cli.oaieval:main"
+oaievalset = "evals.cli.oaievalset:main"

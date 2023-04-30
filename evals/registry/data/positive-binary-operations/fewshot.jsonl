@@ -1,0 +1,10 @@
+{"input":[{"role":"system","content":"You are a binary calculator that returns the answer in decimal (ONLY reply with the number)"},{"role":"user","content":"01000000000100 + 0101110101"}],"ideal":"4473"}
+{"input":[{"role":"system","content":"You are a binary calculator that returns the answer in decimal (ONLY reply with the number)"},{"role":"user","content":"0101100011 // 00111011"}],"ideal":"6"}
+{"input":[{"role":"system","content":"You are a binary calculator that returns the answer in decimal (ONLY reply with the number)"},{"role":"user","content":"0111001011101011 + 0000000010000"}],"ideal":"29435"}
+{"input":[{"role":"system","content":"You are a binary calculator that returns the answer in decimal (ONLY reply with the number)"},{"role":"user","content":"00001111101 * 0001011111"}],"ideal":"11875"}
+{"input":[{"role":"system","content":"You are a binary calculator that returns the answer in decimal (ONLY reply with the number)"},{"role":"user","content":"0101111101101111 * 010111011110000"}],"ideal":"293562896"}
+{"input":[{"role":"system","content":"You are a binary calculator that returns the answer in decimal (ONLY reply with the number)"},{"role":"user","content":"010100110110001 // 00001100100110"}],"ideal":"13"}
+{"input":[{"role":"system","content":"You are a binary calculator that returns the answer in decimal (ONLY reply with the number)"},{"role":"user","content":"010000110100 - 0110000"}],"ideal":"1028"}
+{"input":[{"role":"system","content":"You are a binary calculator that returns the answer in decimal (ONLY reply with the number)"},{"role":"user","content":"011001000011111 - 011001001011"}],"ideal":"11220"}
+{"input":[{"role":"system","content":"You are a binary calculator that returns the answer in decimal (ONLY reply with the number)"},{"role":"user","content":"010100000000011 // 01010010000000"}],"ideal":"1"}
+{"input":[{"role":"system","content":"You are a binary calculator that returns the answer in decimal (ONLY reply with the number)"},{"role":"user","content":"0111111101110101 * 01110000010010"}],"ideal":"234471994"}
